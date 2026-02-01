@@ -41,3 +41,37 @@ Demonstrates **object-oriented programming (OOP)** concepts such as **inheritanc
 ---
 
 ## Example Output 
+=== Jewellery Store Management System ===
+Enter Customer ID: 101
+Enter Customer Name: Lakshmi
+Enter Phone Number: 9876543210
+
+Select Jewellery Type
+1. Gold (₹10000/g)
+2. Silver (₹1000/g)
+1
+Enter Item ID: 1
+Enter Item Name: Gold Ring
+Enter Weight (grams): 15
+
+----- BILL -----
+Customer Name : Lakshmi
+Item Name     : Gold Ring
+Item Type     : Gold
+Base Price    : ₹150000.0
+GST (3%)      : ₹4500.0
+Final Amount  : ₹139050.0
+Discount Applied: 10%
+
+Enter amount paid by customer: 140000
+Payment successful
+Change to return: ₹950.0
+--- Remaining Notes ---
+₹2000 : 10
+₹500  : 19
+₹200  : 30
+₹100 : 9
+₹50  : 10
+₹20  : 199
+₹10  : 199
+
